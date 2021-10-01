@@ -1,0 +1,9 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1.title {
+    font-size: 24px;
+    max-width: 10%;
+    overflow-wrap: break-word;
+}
