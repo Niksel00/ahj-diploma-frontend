@@ -1,7 +1,7 @@
 {
   "name": "ahj-diploma",
   "version": "1.0.0",
-  "description": "[![Build status](https://ci.appveyor.com/api/projects/status/i6saa94o0a6s6d9a?svg=true)](https://ci.appveyor.com/project/Niksel00/ahj-diploma-frontend)",
+  "description": "[![Build status](https://ci.appveyor.com/api/projects/status/i6saa94o0a6s6d9a?svg=true)](https://ci.appveyor.com/project/Niksel00/ahj-diploma-frontend-test)",
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server --mode development",
@@ -42,10 +42,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Niksel00/ahj-diploma-frontend.git"
+    "url": "git+https://github.com/Niksel00/ahj-diploma-frontend-test.git"
   },
   "bugs": {
-    "url": "https://github.com/Niksel00/ahj-diploma-frontend/issues"
+    "url": "https://github.com/Niksel00/ahj-diploma-frontend-test/issues"
   },
-  "homepage": "https://github.com/Niksel00/ahj-diploma-frontend#readme"
+  "homepage": "https://github.com/Niksel00/ahj-diploma-test#readme"
 }
